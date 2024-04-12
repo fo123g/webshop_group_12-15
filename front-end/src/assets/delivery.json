@@ -1,0 +1,30 @@
+[
+  {
+    "country": "Mali",
+    "zip": "00000",
+    "city": "Timbuctoo",
+    "continent": "Africa",
+    "addressLine1": "Ahmed Baba Institute"
+  },
+  {
+    "country": "Togo",
+    "zip": "00000",
+    "city": "Tchebebe",
+    "continent": "Africa",
+    "addressLine1": "Epp Tchebebe Sud"
+  },
+  {
+    "country": "Ghana",
+    "zip": "00000",
+    "city": "Kumasi",
+    "continent": "Africa",
+    "addressLine1": "Thinkers' Academy"
+  },
+  {
+    "country": "Germany",
+    "zip": "01067",
+    "city": "Würstenhof",
+    "continent": "Europe",
+    "addressLine1": "Würststrasse 19"
+  }
+]

@@ -1,0 +1,167 @@
+
+[
+  {
+    "id": "goat",
+    "name": "Goat",
+    "price": 4.99,
+    "currency": "DKK",
+    "rebateQuantity": 3,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "giftWrap": false,
+    "quantity": 1,
+    "ImageURL": "https://media.4-paws.org/a/4/8/b/a48b18270b120e60e9bd4783e9106940a2808acd/VIER%20PFOTEN_2013-07-19_024-3851x2665-1920x1329.jpg"
+  },
+  {
+    "id": "bicycle-5-wheels",
+    "name": "5-Wheeled Bicycle",
+    "price": 199.99,
+    "currency": "DKK",
+    "rebateQuantity": 3,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "giftWrap": false,
+    "ImageURL": "https://theawesomer.com/photos/2022/09/five_wheel_bicycle_t.jpg"
+  },
+  {
+    "id": "kids-songbook",
+    "name": "Kids Songbook",
+    "price": 7.99,
+    "currency": "DKK",
+    "rebateQuantity": 3,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "giftWrap": true,
+    "ImageURL": "https://cdn.wildsca.net/store/wp-content/uploads/2019/06/22083326/MB009.png"
+  },
+  {
+    "id": "cow-irish-moiled",
+    "name": "Irish Moiled Cow",
+    "price": 149.99,
+    "currency": "DKK",
+    "rebateQuantity": 3,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://www.slowfood.org.uk/wp-content/uploads/2014/09/Moiled-2-Small_Copyright_Irish_Moiled_Cattle_Society.jpg"
+  },
+  {
+    "id": "kangaroo-antilopine",
+    "name": "Antilopine Kangaroo",
+    "price": 199.99,
+    "currency": "DKK",
+    "rebateQuantity": 2,
+    "rebatePercent": 25,
+    "upsellProductId": "vitamin-c-depot-500-250",
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96FzrYs7yPC-hPzyxQRK5kzxcwY8r1lwYFc0YErbGlQV46tG6"
+  },
+  {
+    "id": "kangaroo-western-grey",
+    "name": "Western Grey Kangaroo",
+    "price": 175,
+    "currency": "DKK",
+    "rebateQuantity": 3,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZrwrSsi1q1u4OqemBQdXrudIFiMqlvSwMGQYvQzEFqEwB3uz"
+  },
+  {
+    "id": "hippo",
+    "name": "Hoppopotamus",
+    "price": 549.99,
+    "currency": "DKK",
+    "rebateQuantity": 5,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXSIhjNfzHcqw7AC27l6uldeFN7-BLwf6-BBLifp4uWlIpfAGv"
+  },
+  {
+    "id": "football",
+    "name": "Football",
+    "price": 49.99,
+    "currency": "DKK",
+    "rebateQuantity": 0,
+    "rebatePercent": 0,
+    "upsellProductId": null,
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg"
+  },
+  {
+    "id": "flying-squrriel",
+    "name": "Flying Squirrel",
+    "price": 199.99,
+    "currency": "DKK",
+    "rebateQuantity": 0,
+    "rebatePercent": 0,
+    "upsellProductId": null,
+    "ImageURL": "https://www.nps.gov/articles/images/flying-squirrel2.png"
+  },
+  {
+    "id": "toothbrush-bamboo",
+    "name": "Bamboo Toothbrush",
+    "price": 9.99,
+    "currency": "DKK",
+    "rebateQuantity": 2,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://d1y842vehjx955.cloudfront.net/productimages/490x490/W10944.jpg"
+  },
+  {
+    "id": "blob",
+    "name": "Blobfish",
+    "price": 99.99,
+    "currency": "DKK",
+    "rebateQuantity": 0,
+    "rebatePercent": 0,
+    "upsellProductId": null,
+    "ImageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxLlMy9rgLWLo-NUa3KVQarBICPDIwIbUJRoDrskIcLV5TG3LX"
+  },
+  {
+    "id": "tetherball",
+    "name": "Tetherball",
+    "price": 129.99,
+    "currency": "DKK",
+    "rebateQuantity": 0,
+    "rebatePercent": 0,
+    "upsellProductId": null,
+    "ImageURL": "https://media.licdn.com/dms/image/C4D12AQHWBxjpOugTkA/article-inline_image-shrink_1000_1488/0/1520066470827?e=1713398400&v=beta&t=HGH51u8MceiFPqQfKJ1fKvrFRgbVcUxA2UM8Awh_On4"
+  },
+  {
+    "id": "iphone-charger",
+    "name": "iPhone Charger",
+    "price": 79.99,
+    "currency": "DKK",
+    "rebateQuantity": 2,
+    "rebatePercent": 20,
+    "upsellProductId": null,
+    "ImageURL": "https://m.media-amazon.com/images/I/51CJPmRD1uL._SL1425_.jpg"
+  },
+  {
+    "id": "sodastream",
+    "name": "Soda Stram",
+    "price": 119.99,
+    "currency": "DKK",
+    "rebateQuantity": 0,
+    "rebatePercent": 0,
+    "upsellProductId": null,
+    "ImageURL": "https://sodastream.dk/cdn/shop/files/terra_life.png?v=1696421065&width=1000"
+  },
+  {
+    "id": "flight-suit",
+    "name": "Flight Suit",
+    "price": 99.99,
+    "currency": "DKK",
+    "rebateQuantity": 2,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://www.arvingen.dk/images/510360F-8923_front-p.webp"
+  },
+  {
+    "id": "induction-pan",
+    "name": "Induction Pan",
+    "price": 149.99,
+    "currency": "DKK",
+    "rebateQuantity": 2,
+    "rebatePercent": 10,
+    "upsellProductId": null,
+    "ImageURL": "https://www.illumsbolighus.dk/dw/image/v2/BGKQ_PRD/on/demandware.static/-/Sites-sfcc-master-catalogue/default/dwea9a5eca/images/hi-res/901306615.jpg?sw=600&sh=600"
+  }
+]
